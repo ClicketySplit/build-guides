@@ -18,7 +18,7 @@ If you have any questions, please, feel free to [contact me](https://clicketyspl
 
 First thing's first—Safety!  Because you're dealing with small items, and you're also working with a hot soldering wand; wear your safety glasses at all times; it will protect your eyes from heat, clippings, and they will also protect you from rosin that often splatters when it gets up to temperature.
 
-Iimplement an exhaust fan or ensure a well ventilated area; if you can smell what you're soldering, your area is not ventilated enough.
+Implement an exhaust fan or ensure a well ventilated area; if you can smell what you're soldering, your area is not ventilated enough.
 
 Part of your safety is ensuring a clean workspace.  To borrow a phrase from the French culinary industry: Mise en place, which means "putting in place" or to "gather" having your workspace organized, and free from clutter will help prevent any at reach accidents.  The last thing you need is to bump your soldering iron off of its stand or holder, or even spill your 99% IPA while you're cleaning your soldering positions.
 
