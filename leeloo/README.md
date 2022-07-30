@@ -11,6 +11,17 @@ Building your own keyboard should be fun, relaxing, and a neat sense of accompli
 
 If you have any questions, please, feel free to [contact me](https://clicketysplit.ca/pages/contact-us).  I’d be happy to share further insight, or workarounds that may not be mentioned in this guide.
 
+### Safety Equipment
+* Eye Protection
+* Exhaust Fan
+* Clean Workspace
+
+First thing's first—Safety!  Because you're dealing with small items, and you're also working with a hot soldering wand; wear your safety glasses at all times; it will protect your eyes from heat, clippings, and they will also protect you from rosin that often splatters when it gets up to temperature.
+
+Iimplement an exhaust fan or ensure a well ventilated area; if you can smell what you're soldering, your area is not ventilated enough.
+
+Part of your safety is ensuring a clean workspace.  To borrow a phrase from the French culinary industry: Mise en place, which means "putting in place" or to "gather" having your workspace organized, and free from clutter will help prevent any at reach accidents.  The last thing you need is to bump your soldering iron off of its stand or holder, or even spill your 99% IPA while you're cleaning your soldering positions.
+
 ### Preparing for the Build Process
 Before you begin, there are a variety of tools, materials, and safety equipment that I would recommend.  There are some optional items that may help along the way, but are not required.
 
@@ -32,11 +43,6 @@ Before you begin, there are a variety of tools, materials, and safety equipment 
 * Multimeter
 
 ‡ India Pale Ale while you build; Isopropyl Alcohol while cleaning rosin after each soldered position.
-
-### Safety Equipment
-* Eye Protection
-* Exhaust Fan
-* Clean Workspace
 
 ## TL;DR
 If you've built a keyboard before, chances are you'll just need the highlights.
@@ -112,7 +118,11 @@ The surface mount pads of Leeloo are just large enough for SOD-123F diodes.  Lee
 
 Why such small pads?  From my perspective, it helped keep the board’s design clean; not only saving space, but also while soldering the components—less solder.
 
-Tip: Before soldering the diodes, consider unpackaging 10 at a time, and aligning them in the same direction as the shield’s diode direction.  If you line them up in the same direction, it helps reduce the potential of soldering the diodes the wrong way; and, it also helps keep track of all your diodes in case you sneeze; in case your cat jumps on the table; or, in case a gremlin takes one while you sip your IPA‡.
+Tip: Before soldering the diodes, consider unpackaging 10 at a time, and aligning them in the same direction as the shield’s diode direction.
+
+You can identify the Cathode side of the diode by the white/grey bar that is laser enscribed on the one side.  Please see the following pictures.
+
+If you line them up in the same direction, it helps reduce the potential of soldering the diodes the wrong way; and, it also helps keep track of all your diodes in case you sneeze; in case your cat jumps on the table; or, in case a gremlin takes one while you sip your IPA‡.
 
 ![Cathode Anode](images/v1.0/Cathode%20Anode.jpg)
 
