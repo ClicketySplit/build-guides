@@ -25,7 +25,7 @@ Generally speaking, building Leeloo and Leeloo-Micro will be similar:
 * Prepare Firmware
     * ZMK | Leeloo and Leeloo-Micro
     * QMK | Leeloo Only
-* Flashing the MCU
+    * Flashing the MCU
 * Cleaning the Shields
 * Diodes
 * RGB LEDs†
