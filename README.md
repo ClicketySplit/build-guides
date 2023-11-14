@@ -1,9 +1,9 @@
-![Leeloo](https://github.com/ClicketySplit/build-guides/blob/main/leeloo/images/gallery/Leeloo-v2-ZMK.jpg)
+![Leeloo](leeloo/images/gallery/Leeloo-v2-ZMK.jpg)
 
 # Build Guide
-Leeloo is available in two different form factors and may be configured in many ways.  Within this documentation, you'll find a base build guide, which will take you through the common process and steps to build Leeloo and Leeloo-Micro.
+Leeloo is available in two different form factors and may be configured in many ways.  Within this documentation, you'll find a base build guide, which will take you through the process of building Leeloo.
 
-Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent amongst each other.  Albeit, their circuitry and components have changed, their shape and dimensions have not.
+Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent with each other.  Albeit, their circuitry and components have changed, their shape and dimensions have not.
 
 >    **What changed?**
 >    1. Mill-Max Receptacles were used for socketing nice!view and OLED Displays.
@@ -15,9 +15,9 @@ Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent amongs
 >
 >       Added two components: MOSFET and Resistor, along with a Solderable Bypass Jumper, which can be used if RGB LEDs are not installed.
 >
->       **Note:** nice!view Displays are currently unsupported; yet, OLED Displays are.  Hopes are that nice!view Displays will be supported soon, we will keep an eye on the development, and update this guide as soon as we learn more.
+>       **Note:** As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
 >
->       We will also keep the Leeloo and Leeloo-Micro branches up to date to support the evolutionary changes.
+>       The Leeloo and Leeloo-Micro power domain branches will continue to be updated as evolutionary changes are made to the originating experimental fork.  Links will be shared in the **Prepare Firmware** chapter.
 
 ## Typical Workflow
 Generally speaking, building Leeloo and Leeloo-Micro will be similar:
@@ -27,26 +27,20 @@ Generally speaking, building Leeloo and Leeloo-Micro will be similar:
     * QMK | Leeloo Only
     * Flashing the MCU
 * Cleaning the Shields
+* Receptacles
 * Diodes
 * RGB LEDs†
 * Hot Swaps
-* MOSFETs and Resistors or Solderable Bypass Jumper
-* MCU SIPs
-* MCU Pins
-* MCU Installation
+* MOSFETs and Resistors or Solderable Bypass Jumper†
+* MCU SIP Sockets and Pins
     * Remove MCU
-* Receptacles
+* Display Pins and SIP Sockets
 * Reset Switches
 * TRRS Jacks† | Leeloo Only
-* On/off Switches†
-    * Bridging
-* nice!view Pins or OLED Pins
-* Case
-* Switches Part I
-* nice!view or OLED SIPs
+* On/off Switches
 * Batteries†
-* Insert MCU
-* Switches Part II
+* MCU Installation
+* Switches
 * Rotary Encoder(s)†
 * Quality Assurance
 * Bottom Plate
