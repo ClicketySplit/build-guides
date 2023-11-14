@@ -1,6 +1,7 @@
+# RGB LEDs
 Before installing the RGB LEDs, consider reading the **Bypass Jumper** chapter.
 
-The **Bypass Jumper** chapter explains the difference between using the bypass jumper and the power cutoff MOSFETs and Resistors, and when to use each technique.
+The [Bypass Jumper](9-Bypass-Jumper.md) chapter explains the difference between using the bypass jumper and the power cutoff MOSFETs and Resistors, and when to use each technique.
 
 ## Wired with QMK
 If you choose to implement with QMK and Elite-Cs or Elite-Pis, you **MUST** solder the Bypass Jumper; and, ignore installing the power cutoff MOSFETs and Resistors.

@@ -1,3 +1,4 @@
+# Batteries
 Before installing the batteries, consider obtaining a reading of the batteries themselves.  To verify the reading that was made as part of Clickety Split's QA process when packaging your Leeloo or Leeloo-Micro Kit.
 
 ## Testing

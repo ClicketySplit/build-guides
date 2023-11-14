@@ -1,4 +1,4 @@
-## Mise en place
+# Mise en place
 As a common approach to the build process, you may notice in the upcoming chapters, that I like to prepare all the components and align them in accordance to the location they will be soldered onto the PCB.  This helps reduce the risk of installing a particular component backwards or even upside-down.
 
 Counting and aligning each component ensures you are not missing any, and that each component is not malformed, or broken.  It also keeps you moving smoothly.

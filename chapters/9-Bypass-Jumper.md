@@ -1,4 +1,5 @@
-## Why use the Bypass Jumper?
+# Bypass Jumper
+### Why use the Bypass Jumper?
 The bypass jumper is used to—quite literally—bypass the circuitry added to cut power from the VCC pin to the RGB LEDs, by virtue of the, at present, experimental implementation of Power Domains.
 
 If your implementation of Leeloo will be wired and will also include RGB LEDs.  ***You must solder the bypass jumper.***

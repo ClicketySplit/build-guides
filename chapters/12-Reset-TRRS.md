@@ -23,7 +23,7 @@ If you plan on leveraging Elite-Pis, or Elite-Cs to give life to Leeloo, then th
 
 Installation of the TRRS Jacks are straight forward, insert the component and solder the legs.
 
-...I like to do things a bit differently:
+Yet; I like to do things a bit differently:
 
 * Flare each of the legs out 30°.  This will help keep the component in place.
 * Ensure the component is in line with the slikscreen on the top of the PCB.

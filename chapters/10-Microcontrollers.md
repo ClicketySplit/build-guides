@@ -1,13 +1,11 @@
-# Flashing the MCUs
-In the chapter: ***Prepare Firmware***, it was recommended to consider flashing your microcontrollers so that you knew that your build environment and firmware are in good shape.  If you have not done so, it may be a good opportunity to do so now.
+# Preparing the Microcontrollers (MCUs)
+In the chapter: [Prepare Firmware](3-Prepare-Firmware.md), it was recommended to consider flashing your microcontrollers so that you knew that your build environment and firmware are in good shape.  If you have not done so, it may be a good opportunity to do so now.
 
-# MCU SIPS
+## MCU SIP Sockets
 When soldering the MCU Sockets, they are inserted from the bottom of the PCB, and soldered from the top.
 
->   **WIRELESS IMPLEMENTATIONS**
->
->   If your implementation leverages nice!nanos, you will have a pair of Mill-Max 3-position sockets.  These should also be soldered if you choose to install RGB LEDs, MOSFETs, and Resistors.
->
+> **WIRELESS IMPLEMENTATIONS** \
+> If your implementation leverages nice!nanos, you will have a pair of Mill-Max 3-position sockets.  These should also be soldered if you choose to install RGB LEDs, MOSFETs, and Resistors.
 
 The simplest way to install the sockets is to insert the two 12-position sockets, and the optional 3-position socket; place a piece of card stock over top of the sockets, so you can flip the PCB over without losing the socket positions.
 
@@ -30,7 +28,7 @@ In order to solder the sockets into position, consider the following:
 
 6. Clean the socket legs with 99% IPA and a cotton swab to keep your PCBs clean.
 
-# MCU Pins
+## MCU Pins
 In preparation of soldering the MCU Pins, you may wish to collect the following items:
 
 * Small pliers
@@ -53,7 +51,7 @@ Continue until all pins have been inserted.  When complete, have a look at all t
 
 You are now ready to solder in the microcontrollers.
 
-# MCU Installation
+## MCU Installation
 Now that the hard work is done...soldering the sockets and seating the pins...it's time to solder the pins to the microcontroller.
 
 Before soldering, have a look at the PCBs, and have a look at the microcontrollers.  You should notice some socket locations on the PCB correspond to the through hole locations on the microcontroller—match these up.

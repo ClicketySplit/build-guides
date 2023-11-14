@@ -1,3 +1,5 @@
+# Quality Assurance
+As you progress through testing, you may run into situations where functionality does not happen as anticipated.  This chapter will cover some typical problems and potential solutions.
 ## Test Each Switch
 Having your firmware flashed to your MCUs, before this step, helps with QA tremendously—predictable use cases.  The simplest way to test your keyboard is to open a text editor and activate each switch.  Hopefully, based on your keymap, each switch that you've programmed will show up on screen—either by character, or by action.
 

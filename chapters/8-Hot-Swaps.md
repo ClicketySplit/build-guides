@@ -1,3 +1,4 @@
+# Hot Swaps
 The approach for hot swaps is identical to diodes.  Select a side to tin, and be consistent all the way through each position.  Consider unpacking all that are required, and aligning them as neatly as your OCD will allow.
 
 ## Choc Hot Swaps

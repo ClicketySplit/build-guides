@@ -1,4 +1,4 @@
-## Preparing the Firmware
+# Preparing the Firmware
 Both ZMK and QMK have excellent documentation to get you started with setting up the build environment.
 
 Consider building and flashing the default firmware for Leeloo, or Leeloo-Micro onto your microcontrollers.  By having the firmware compiled, and installed you can ensure that your build environment and keymap are set up and error free; and, as you progress through quality assurancee, you have a baseline keymap to test against.

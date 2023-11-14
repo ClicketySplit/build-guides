@@ -1,3 +1,4 @@
+# Preamble
 The Leeloo series was inspired by many popular split keyboards like the Lily58, Corne, and Sweep; however, Leeloo's design was based on a study of many individuals from application developers, technical writers, business analysts, to friends, and family.  To learn more about the origins of Leeloo, please read the blog post [Leeloo | The Series’ Genesis](https://clicketysplit.ca/blogs/news/leeloo-the-series-genesis).
 
 Leeloo is a 4x6x5m split keyboard (MX version will be in production soon), and Leeloo-Micro is a 3x5x5m split keyboard designed and built from the ground up.

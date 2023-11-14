@@ -1,3 +1,4 @@
+# Diodes
 The surface mount pads of Leeloo are just large enough for SOD-123F diodes.  A fine tipped soldering iron will be required.
 
 Why such small pads?  From my perspective, it helped keep the board’s design clean; not only saving space, but also while soldering the components—less solder.

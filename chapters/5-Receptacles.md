@@ -1,3 +1,4 @@
+# Receptacles
 In preparation of soldering the Mill-Max Receptacles, you may wish to collect the following items:
 
 * Kapton Tape, 10mm wide

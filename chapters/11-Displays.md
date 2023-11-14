@@ -1,3 +1,4 @@
+# Displays: nice!view or OLED
 In preparation of soldering the Display Pins, you may wish to collect the following items:
 
 * Small pliers
@@ -55,7 +56,7 @@ The fit should be snug—the socket should not just slip through.
 > **NOTE** \
 > Take note of the socket/half pairing and orientation that the socket has been fit to the port itself.
 
-## SIPS
+## SIP Sockets
 As alluded to in the Pins section, installation of the sockets are different than most implementations.  The sockets are soldered to the Displays.
 
 ### Prepare the Sockets
@@ -65,7 +66,7 @@ To prepare the socket legs, insert the socket legs from the top of the display's
 
 Clipping from the bottom will ensure that no damage is made to the top of the PCB, or what's worse, the display glass itself.
 
-> ***FINISHING TIP*** \
+> **FINISHING TIP** \
 > Use a small file, or emery board to ensure each leg is the same length.  File across all legs at the same time.
 
 ### Prepare the PCB and Case

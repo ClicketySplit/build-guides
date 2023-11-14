@@ -1,3 +1,4 @@
+# Switches and Rotary Encoders
 Leeloo v2.x and Leeloo-Micro v1.x have 2 switch positions that are hot swappable with rotary encoders.
 
 This may be helpful in situations when wish to add rotary encoders on the go.
