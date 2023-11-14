@@ -10,12 +10,14 @@ Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent with e
 >
 >       To simplify, Mill-Max Pins are soldered to the PCB and serve as the male component to the SIP socket that is soldered to the nice!view or OLED Display.
 >
-> 
 >    2. Circuitry was added to support the [Experimental: Automatic power domain handling for displays/RGB](https://github.com/zmkfirmware/zmk/pull/1775) branch currently in draft by **Pete Johanson**.
 >
 >       Added two components: MOSFET and Resistor, along with a Solderable Bypass Jumper, which can be used if RGB LEDs are not installed.
 >
->       **Note:** As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
+>       **Note:** \
+>       As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
+>
+>       As of Nov 6, 2023, a firmware programming adjustment is required to ensure power management is executing properly.  There have been scenarios where power has been leaking slowly, causing faster consumption of battery capacity than expected.
 >
 >       The Leeloo and Leeloo-Micro power domain branches will continue to be updated as evolutionary changes are made to the originating experimental fork.  Links will be shared in the **Prepare Firmware** chapter.
 
