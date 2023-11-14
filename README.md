@@ -15,9 +15,9 @@ Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent with e
 >       Added two components: MOSFET and Resistor, along with a Solderable Bypass Jumper, which can be used if RGB LEDs are not installed.
 >
 >       **Note:** \
->       As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
+>       As of Nov 6, 2023, a firmware programming adjustment is required to ensure power management is executing properly.  There have been scenarios where power has been leaking slowly, causing faster consumption of the battery capacity than expected.
 >
->       As of Nov 6, 2023, a firmware programming adjustment is required to ensure power management is executing properly.  There have been scenarios where power has been leaking slowly, causing faster consumption of battery capacity than expected.
+>       As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
 >
 >       The Leeloo and Leeloo-Micro power domain branches will continue to be updated as evolutionary changes are made to the originating experimental fork.  Links will be shared in the **Prepare Firmware** chapter.
 
@@ -49,6 +49,14 @@ Generally speaking, building Leeloo and Leeloo-Micro will be similar:
 * Keycaps
 
 † Optional steps.
+
+## Do-Re-Mi
+Let's start at the very beginning \
+A very good place to start \
+When you read you begin with A-B-C \
+When you sing you begin with do-re-mi.
+
+[Chapter 1: Preamble](chapters/1-Preamble.md)
 
 ## Feedback
 We hope you find this build guide helpful.  If you find an error, or have any recommendations to help make this guide better, please [contact us](https://clicketysplit.ca/pages/contact-us), so we may be able to make the modifications.
