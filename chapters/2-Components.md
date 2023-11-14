@@ -100,3 +100,8 @@ The following additional components are required; however, they are not included
 | EC11 or EC12 Dial (each side)† | 1 |
 
 † **Optional:** Albeit optional, the above components can be added in the future, at any time.
+
+## Chapters
+Next: [Chapter 3: Prepare Firmware](3-Prepare-Firmware.md) \
+Previous: [Chapter 1: Preamble](1-Preamble.md) \
+Home: [Index](/README.md)
