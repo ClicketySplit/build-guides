@@ -34,7 +34,8 @@ With the pins soldered in place, remove the Kapton tap, and pull off the socket.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
 
-> ***NOTE***: Also clean the pins because they will pick up some of the adhesive of the Kapton tape.
+> **NOTE** \
+> Also clean the pins because they will pick up some of the adhesive of the Kapton tape.
 
 ## Fitting the Socket to the Case
 The main reason for pinning the PCB and socketing the display is to provide better alignment, and more strength.
@@ -51,7 +52,8 @@ If required, carefully file the port opening so that it can accommodate the leng
 
 The fit should be snug—the socket should not just slip through.
 
-> ***NOTE***: Take note of the socket/half pairing and orientation that the socket has been fit to the port itself.
+> **NOTE** \
+> Take note of the socket/half pairing and orientation that the socket has been fit to the port itself.
 
 ## SIPS
 As alluded to in the Pins section, installation of the sockets are different than most implementations.  The sockets are soldered to the Displays.

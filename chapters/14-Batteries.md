@@ -12,16 +12,18 @@ In preparation of soldering the Batteries, you may wish to collect the following
 * Hobby knife with a sharp edge.
 * Scissors
 
-> ***Planning the Installation*** \
+> **PLANNING THE INSTALLATION** \
 > Channel both leads so that they can be as close as possible together and in a way that enables you to tuck the battery into position without a lot of stress on the wires themselves.
 
-> ***NOTE***: ensure the power switches are in the Off Position—toggled to the right.
+> **NOTE** \
+> Ensure that the power switches are in the Off Position—toggled to the right.
 
 Place a piece of Kapton tape onto the Black (ground) wire of the battery—as close as possible to the exposed wire to be soldered.
 
 Afix the Black wire in place, with the exposed wire over top of the Negative through-hole pad.  Use your fingernail to bend/flatten the exposed wire as close as possible to the through-hole pad itself.
 
-> ***NOTE***: The Red wire should still have its protective tape on it.
+> **NOTE** \
+> The Red wire should still have its protective tape on it.
 
 Solder the lead to the pad.
 

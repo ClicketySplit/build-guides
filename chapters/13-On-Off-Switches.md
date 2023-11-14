@@ -6,7 +6,8 @@ Leeloo and Leeloo-Micro were designed to accommodate an Alps Micro Switch to cut
 ## Installation
 Installation is much like a diode.  Tin one leg to mount, and then work your way around the remaining legs.  A fine tipped soldering iron is recommended, because the surface mount legs of these switches are very small.
 
-> ***NOTE***: the power switches are in the On position when packaged from the factory.  I would recommend placing them in the Off position after they have been installed—toggled to the right.
+> **NOTE** \
+> The power switches are in the **On position** when packaged from the factory.  I would recommend placing them in the **Off position** after they have been installed—toggled to the right.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
 

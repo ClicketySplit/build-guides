@@ -10,7 +10,8 @@ When soldering the hot swaps, be mindful of these physical characteristics, and 
 ## Box/MX Hot Swaps
 Box/MX Hot Swaps are straight forward, they can only be installed one way.
 
-***NOTE:*** Leeloo v2.1 with MX Spacing will be in production soon.
+> **NOTE** \
+> Leeloo v2.1 with MX Spacing will be in production soon.
 
 ## Chapters
 Next: [Chapter 9: Bypass Jumper](9-Bypass-Jumper.md) \

@@ -4,7 +4,7 @@ In the chapter: ***Prepare Firmware***, it was recommended to consider flashing 
 # MCU SIPS
 When soldering the MCU Sockets, they are inserted from the bottom of the PCB, and soldered from the top.
 
->   **Wireless Implementations**
+>   **WIRELESS IMPLEMENTATIONS**
 >
 >   If your implementation leverages nice!nanos, you will have a pair of Mill-Max 3-position sockets.  These should also be soldered if you choose to install RGB LEDs, MOSFETs, and Resistors.
 >
@@ -42,7 +42,8 @@ Begin the process of pinning by placing a strip of Kapton tape over the socket h
 
 Once the Kapton tape has been placed, use the sharpest point of the hobby knife to poke pilot holes into the centre of each socket position.  The reason for the pilot holes is to reduce the "puckering" of the tape when the pins are inserted into each socket location.
 
->    ***NOTE:*** Plunge the knife just enough to make the smallest of holes.  The pilot hole needs to be small so that when the pin is inserted, it has a seal around it so that solder does not seep through.
+> **NOTE** \
+> Plunge the knife—just enough—to make the smallest of holes.  The pilot hole needs to be small so that when the pin is inserted, it has a seal around it so that solder does not seep through.
 
 With the pilot holes prepared, begin placing a pin into each socket location.  Use the pliers to grasp a pin—at least half of the pin in the jaws—and insert straight into the socket.
 
@@ -72,7 +73,8 @@ Move over to the USB-C port side, and use the shoulders of the microcontroller's
 
 Repeat this process until the microcontroller becomes free.
 
-***DO NOT*** be aggressive because it is possible to bend the pins.  Take your time, and take it a millimeter at a time.
+> **IMPORTANT** \
+> ***DO NOT*** be too aggressive because it is possible to bend the pins.  Take your time, and take it a millimeter at a time.
 
 Once your microcontroller is out, have a look at all the pins at eye level and ensure each one is straight.
 

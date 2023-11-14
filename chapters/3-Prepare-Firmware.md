@@ -28,7 +28,7 @@ If you would like to build your firmware on your local machine, follow the instr
 Configurations without RGB LEDs can leverage the main branch:
 [Leeloo rev2](https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo), or [Leeloo-Micro](https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/leeloo_micro).
 
-> [!IMPORTANT] \
+> **IMPORTANT** \
 > The ***current*** main branch supports RGB LEDs, and nice!view displays; however, the ***Bypass Solderable Jumper*** must be used.  As an important note, ***the battery capacity will drain very quickly.***
 
 ### Power Domains
