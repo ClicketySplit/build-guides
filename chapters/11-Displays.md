@@ -85,3 +85,9 @@ In order to solder the display into position, consider the following steps:
 7. Slowly lift out the display.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 12: Reset Switches and TRRS Jacks](12-Reset-TRRS.md) \
+Previous: [Chapter 10: Microcontrollers](10-Microcontrollers.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

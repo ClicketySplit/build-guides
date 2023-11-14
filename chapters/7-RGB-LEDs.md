@@ -24,3 +24,9 @@ Tack each RGB LED to its particular location, ensuring they are face down, and t
 Once all RGB LEDs have been tacked, make your way around each leg, ending with the ground leg.  I like to end with the ground leg because it typically takes more time and heat to solder.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 8: Hot Swaps](8-Hot-Swaps.md) \
+Previous: [Chapter 6: Diodes](6-Diodes.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

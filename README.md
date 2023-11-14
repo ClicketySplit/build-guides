@@ -56,7 +56,8 @@ A very good place to start \
 When you read you begin with A-B-C \
 When you sing you begin with do-re-mi.
 
-[Chapter 1: Preamble](chapters/1-Preamble.md)
+Next: [Chapter 1: Preamble](chapters/1-Preamble.md) \
+Chapters: [Table of Contents](chapters/README.md)
 
 ## Feedback
 We hope you find this build guide helpful.  If you find an error, or have any recommendations to help make this guide better, please [contact us](https://clicketysplit.ca/pages/contact-us), so we may be able to make the modifications.

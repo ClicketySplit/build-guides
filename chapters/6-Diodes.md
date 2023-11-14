@@ -13,3 +13,9 @@ To prepare for soldering, consider tinning either the cathode or anode side of t
 Another benefit of consistent tinning of one side is: it helps ensure that as you pull from the row of aligned diodes you’ve created, you reduce the risk of installing one backwards.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 7: RGB LEDs](7-RGB-LEDs.md) \
+Previous: [Chapter 5: Receptacles](5-Receptacles.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

@@ -18,3 +18,9 @@ If your implementation of Leeloo, or Leeloo-Micro is wireless and will also incl
 6. Clean each SMD pad with IPA and a cotton swab.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 10: Microcontrollers](10-Microcontrollers.md) \
+Previous: [Chapter 8: Hot Swaps](8-Hot-Swaps.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

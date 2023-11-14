@@ -75,3 +75,9 @@ Repeat this process until the microcontroller becomes free.
 ***DO NOT*** be aggressive because it is possible to bend the pins.  Take your time, and take it a millimeter at a time.
 
 Once your microcontroller is out, have a look at all the pins at eye level and ensure each one is straight.
+
+## Chapters
+Next: [Chapter 11: Displays](11-Displays.md) \
+Previous: [Chapter 9: Bypass Jumper](9-Bypass-Jumper.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

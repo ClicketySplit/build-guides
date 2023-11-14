@@ -40,3 +40,9 @@ Flip the board over, and you may begin soldering each location; consider the fol
 Once all the locations have been soldered, you may peel off the Kapton tape, and examine your work.  Take a close look, at eye level, and ensure there is no gap between the shoulder of each of the receptacles and the PCB.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 6: Diodes](6-Diodes.md) \
+Previous: [Chapter 4: Mise en place](4-Mise-en-place.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

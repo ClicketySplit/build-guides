@@ -11,3 +11,9 @@ Installing switches should be relatively intuitive.  Align the switch leads with
 Rotary encoders are very similar to switches, except that there are 5 leads you need to align with the receptacles.  You may be required to slightly bend the legs of the rotary encoder to align with the receptacles, however, not very much.  Just enough to align the leads so when the rotary encoder is seated into position, the legs do not bend, or fold over.
 
 When removing a rotary encoder, pull straight up.
+
+## Chapters
+Next: [Chapter 17: Quality Assurance](17-Quality-Assurance.md) \
+Previous: [Chapter 15: MCU Installation](15-MCU-Installation.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

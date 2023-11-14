@@ -74,3 +74,9 @@ QMK implementations have OLED Displays on by default, in the info.json file.
 ```
 
 If they do not, have a look at the sockets and pins; ensure good connections; reflow if necessary.
+
+## Chapters
+Next: [Chapter 18: The Fruit](18-The-Fruit.md) \
+Previous: [Chapter 16: Switches and Encoders](16-Switches-Encoders.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

@@ -31,3 +31,8 @@ If you have any further questions, please [contact me](https://clicketysplit.ca/
 
 Clickety Split
 For the love of split keyboards.
+
+## Chapters
+Previous: [Chapter 17: Quality Assurance](17-Quality-Assurance.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

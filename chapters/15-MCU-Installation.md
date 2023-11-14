@@ -27,3 +27,9 @@ If all's good, you should see all the RGB LEDs light up, and status information 
 If there are issues with the RGB LEDs, have a close look at the direction of each RGB LED and ensure each leg has a clean solder joint, and also ensure that the configuration setting for RGB LEDs has been activated.
 
 If there are issues with the displays, ensure each pin and socket position has a clean solder joint, and also ensure that the configuration setting for displays has been activated.
+
+## Chapters
+Next: [Chapter 16: Switches and Encoders](16-Switches-Encoders.md) \
+Previous: [Chapter 14: Batteries](14-Batteries.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

@@ -45,3 +45,9 @@ QMK's documentation provides instructions for Windows, Mac OSX, Linux, and FreeB
 
 ### Leeloo v2.1 Firmware (Develop)
 [Leeloo v2.1, or revision 3](https://github.com/ClicketySplit/qmk_firmware/tree/develop/keyboards/clickety_split/leeloo), is currently merged into the Develop branch.  The changes should be merged into Main in the near future.
+
+## Chapters
+Next: [Chapter 4: Mise en place](4-Mise-en-place.md) \
+Previous: [Chapter 2: Components](2-Components.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

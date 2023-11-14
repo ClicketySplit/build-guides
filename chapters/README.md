@@ -24,3 +24,7 @@ We hope you enjoy the build process!
 
 Clickety Split  
 For the love of split keyboards.
+
+## Chapters
+Next: [Chapter 1: Preamble](1-Preamble.md) \
+Home: [Index](/README.md)

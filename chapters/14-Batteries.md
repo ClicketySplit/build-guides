@@ -42,3 +42,9 @@ To do so, carefully peel off the Kapton tape that was used to afix each lead.
 Again, channel both leads so that they can be taped as close as possible together and in a way that enables you to tuck the battery into position without a lot of stress on the wires themselves.
 
 Ensure both leads are properly insulated from other metal objects.  And, for extra safety, you can tape the opposite side of the PCB where the battery leads have been soldered.
+
+## Chapters
+Next: [Chapter 15: MCU Installation](15-MCU-Installation.md) \
+Previous: [Chapter 13: On | Off Switches](13-On-Off-Switches.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

@@ -10,3 +10,9 @@ Not likely a required step, but I like to work with clean components.  I use a l
 Carry this tip with you like a feather of knowledge in your cap.  Once you have completed soldering a particular series of components, pour a tiny bit of 99% IPA into a ramekin, and use a cotton swab to lightly clean off the rosin that is left behind after soldering.
 
 Albeit, it will take some time...put on some music, play one of your favourite movies...Leeloo will love you for it.  You'll type faster too...I promise! ;)
+
+## Chapters
+Next: [Chapter 5: Receptacles](5-Receptacles.md) \
+Previous: [Chapter 3: Prepare Firmware](3-Prepare-Firmware.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

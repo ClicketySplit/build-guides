@@ -31,3 +31,9 @@ Installation of the TRRS Jacks are straight forward, insert the component and so
 * Solder each leg.
 
 > Take a moment to clean each location with 99% IPA and a cotton swab.
+
+## Chapters
+Next: [Chapter 13: On | Off Switches](13-On-Off-Switches.md) \
+Previous: [Chapter 11: Displays](11-Displays.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)
