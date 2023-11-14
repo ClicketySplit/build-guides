@@ -26,9 +26,9 @@ Generally speaking, building Leeloo and Leeloo-Micro will be similar:
 * [Safety, Tools, and Preparation](chapters/1-Preamble.md)
 * [Review Components](chapters/2-Components.md)
 * [Prepare Firmware](chapters/3-Prepare-Firmware.md)
-    * ZMK | Leeloo and Leeloo-Micro
-    * QMK | Leeloo Only
-    * Flashing the MCU
+    * [ZMK | Leeloo and Leeloo-Micro](chapters/3-Prepare-Firmware.md#zmk)
+    * [QMK | Leeloo Only](chapters/3-Prepare-Firmware.md#qmk)
+    * [Flashing the MCU](chapters/3-Prepare-Firmware.md#flashing-the-microcontrollers)
 * [Cleaning the Shields](chapters/4-Mise-en-place.md)
 * [Receptacles](chapters/5-Receptacles.md)
 * [Diodes](chapters/6-Diodes.md)
@@ -36,18 +36,18 @@ Generally speaking, building Leeloo and Leeloo-Micro will be similar:
 * [Hot Swaps](chapters/8-Hot-Swaps.md)
 * [MOSFETs and Resistors or Solderable Bypass Jumper†](chapters/9-Bypass-Jumper.md)
 * [MCU SIP Sockets and Pins](chapters/10-Microcontrollers.md)
-    * Remove MCU
+    * [Removal of MCU](chapters/10-Microcontrollers.md#removal-of-mcu)
 * [Display Pins and SIP Sockets](chapters/11-Displays.md)
-* [Reset Switches](chapters/12-Reset-TRRS.md)
-* [TRRS Jacks† | Leeloo Only](chapters/12-Reset-TRRS.md)
+* [Reset Switches](chapters/12-Reset-TRRS.md#reset-switches)
+* [TRRS Jacks† | Leeloo Only](chapters/12-Reset-TRRS.md#trrs-jacks)
 * [On/off Switches](chapters/13-On-Off-Switches.md)
 * [Batteries†](chapters/14-Batteries.md)
 * [MCU Installation](chapters/15-MCU-Installation.md)
-* [Switches](chapters/16-Switches-Encoders.md)
-* [Rotary Encoder(s)†](chapters/16-Switches-Encoders.md)
+* [Switches](chapters/16-Switches-Encoders.md#switches)
+* [Rotary Encoder(s)†](chapters/16-Switches-Encoders.md#rotary-encoders)
 * [Quality Assurance](chapters/17-Quality-Assurance.md)
-* [Bottom Plate](chapters/18-The-Fruit.md)
-* [Keycaps](chapters/18-The-Fruit.md)
+* [Bottom Plate](chapters/18-The-Fruit.md#bottom-plate)
+* [Keycaps](chapters/18-The-Fruit.md#keycaps)
 
 † Optional steps.
 
