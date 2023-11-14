@@ -52,3 +52,8 @@ Optional items:
 * Wire Strippers
 
 ‡ India Pale Ale while you build; Isopropyl Alcohol while cleaning rosin off of soldered locations.
+
+## Chapters
+Next: [Chapter 2: Components](2-Components.md) \
+Previous: [Table of Contents](README.md) \
+Home: [Index](/README.md)
