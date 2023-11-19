@@ -31,7 +31,7 @@ Before you begin, there are a variety of tools, materials, and safety equipment 
 
 ### Tools and Materials
 * Soldering Iron, 280℃ – 325℃
-* 60/40 Solder, 0.3mm Rosin Core
+* Lead Free Solder, 0.3mm Rosin Core
 * Soldering Tips (fine, small, and medium) Conical, or Chissel
 * Brass Wire Sponge or Wet Sponge for solder tip cleaning.
 * Tweezers: non-conductive or ceramic tipped.
@@ -43,6 +43,7 @@ Before you begin, there are a variety of tools, materials, and safety equipment 
 * Cotton Swabs
 * Small Pliers
 * Small Clippers
+* Small file or emery board
 * Multimeter
 
 Optional items:

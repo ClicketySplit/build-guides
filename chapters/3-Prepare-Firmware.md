@@ -1,15 +1,24 @@
 # Preparing the Firmware
 Both ZMK and QMK have excellent documentation to get you started with setting up the build environment.
 
-Consider building and flashing the default firmware for Leeloo, or Leeloo-Micro onto your microcontrollers.  By having the firmware compiled, and installed you can ensure that your build environment and keymap are set up and error free; and, as you progress through quality assurancee, you have a baseline keymap to test against.
+Consider building and flashing the default firmware for Leeloo, or Leeloo-Micro onto your microcontrollers.  By having the firmware compiled, and installed you can ensure that your build environment and keymap are set up and error free; and, as you progress through quality assurance, you have a baseline keymap to test against.
 
 ## Flashing the Microcontrollers
-When flashing nice!nano, Elite-C, and Elite-Pi microcontrollers, they follow the same steps:
+When flashing nice!nano, and Elite-Pi microcontrollers, they follow the same steps:
 
 1. Connect the Left or Right side to a USB-C cable.
-2. Double-click the reset button at the bottom of Leeloo, or Leeloo-Micro with a blunted toothpick.
+2. Double-click the reset button at the bottom of Leeloo, or Leeloo-Micro with a blunted toothpick to place the MCU into bootloader mode.
 3. Drag and drop the .uf2 file to the root of the microcontroller's file system.
 4. Repeat for the second side.  When flashing nice!nanos, ensure that the proper .uf2 file is copied to its corresponding side.
+
+
+When flashing Elite-C microcontrollers, they follow a slightly different process:
+
+1. Connect the Left or Right side to a USB-C cable.
+2. Double-click the reset button at the bottom of Leeloo, or Leeloo-Micro with a blunted toothpick to place the MCU into bootloader mode.
+3. Issue the `qmk flash` command to flash the firmware.
+4. Repeat for the second side.  The same .hex file can be used for both sides.
+
 
 ### Keeping track of the Left and the Right Microcontrollers
 When flashing your microcontrollers, be sure to keep note, or physically separate them as Left and Right.  It will help when installing them in the chapter: ***MCU Installation***.
