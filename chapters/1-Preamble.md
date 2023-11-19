@@ -12,7 +12,7 @@ This guide has been written and organized based on my own experience.  I’ve be
 > INFORMATION \
 > You may notice that the photos are not from one particular build; they are from a series of 7 builds over the past few weeks.  You may also notice that the photos do not look like they are in order as presented in chapter form.  I tried to build each project in different order; and, the order that is presented will be my preferred order moving forward.
 >
-> Consider skimming through the guide, and sculpt your own process based on your preferences.
+> Consider skimming through the guide, and sculpting your own process based on your preferences.
 
 There are certain steps which help the build experience flow a little better, but as my Mom used to say, ***“there are hundreds of ways to peel an orange, what’s important is that you get to the fruit…enjoy it!”***
 
