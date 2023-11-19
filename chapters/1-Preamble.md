@@ -9,6 +9,9 @@ The name was inspired by the movie The Fifth Element.  Leeloo, the character, be
 ## About This Guide
 This guide has been written and organized based on my own experience.  I’ve been fortunate to have built boards like the Kyria, Sofle, Lily58, Corne, and Sweep.  The Leeloo series is no different.  There’s a natural progression you’ll realize if you’ve built similar keyboards, or have flipped through the various build guides of the aforementioned keyboards.
 
+> INFORMATION \
+> You may notice that the photos are not from one particular build; they are from a series of 7 builds over the past few weeks.  You may also notice that the photos do not look like they are in order as presented in chapter form.  I tried to build each project in different order; and, the order that is presented will be my preferred order moving forward.
+
 There are certain steps which help the build experience flow a little better, but as my Mom used to say, ***“there are hundreds of ways to peel an orange, what’s important is that you get to the fruit…enjoy it!”***
 
 Building your own keyboard should be fun, relaxing, and a neat sense of accomplishment.  Use this opportunity as a form of self care; both mentally and physically.
