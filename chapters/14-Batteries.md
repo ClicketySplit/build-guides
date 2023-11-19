@@ -19,6 +19,8 @@ In preparation of soldering the Batteries, you may wish to collect the following
 > **NOTE** \
 > Ensure that the power switches are in the Off Position—toggled to the right.
 
+![Batteries: Prepare Ground Lead](images/14-batteries-prepare-ground.png)
+
 Place a piece of Kapton tape onto the Black (ground) wire of the battery—as close as possible to the exposed wire to be soldered.
 
 Afix the Black wire in place, with the exposed wire over top of the Negative through-hole pad.  Use your fingernail to bend/flatten the exposed wire as close as possible to the through-hole pad itself.
@@ -33,6 +35,8 @@ Place a piece of Kapton tape over top of the soldered location to protect it fro
 ## Prepare Positive Lead
 Place a piece of Kapton tape onto the Red (live) wire of the battery—as close as possible to the exposed wire to be soldered.
 
+![Batteries: Prepare Positive Lead](images/14-batteries-prepare-positive.png)
+
 Afix the Red wire in place, with the exposed wire over top of the Positive through-hole pad.  Use your fingernail to bend/flatten the exposed wire as close as possible to the through-hole pad itself.
 
 Solder the lead to the pad.
@@ -43,6 +47,8 @@ There should be very little strain on the wires; however, it is best to ensure t
 To do so, carefully peel off the Kapton tape that was used to afix each lead.
 
 Again, channel both leads so that they can be taped as close as possible together and in a way that enables you to tuck the battery into position without a lot of stress on the wires themselves.
+
+![Batteries: Complete](images/14-batteries-complete.png)
 
 Ensure both leads are properly insulated from other metal objects.  And, for extra safety, you can tape the opposite side of the PCB where the battery leads have been soldered.
 

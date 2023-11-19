@@ -9,8 +9,12 @@ Installing switches should be relatively intuitive.  Align the switch leads with
 > **NOTE** \
 > Consider using your thumb to support the hot swap as the switch is being inserted.  I have heard of cases where too much force was used without support from the bottom of the hot swap, and the hot swap popped off with the solder pad attached.
 
+![Switches: Installation](images/16-switches-install.png)
+
 ## Rotary Encoders
 Rotary encoders are very similar to switches, except that there are 5 leads you need to align with the receptacles.  You may be required to slightly bend the legs of the rotary encoder to align with the receptacles, however, not very much.  Just enough to align the leads so when the rotary encoder is seated into position, the legs do not bend, or fold over.
+
+![Rotary Encoder: Installation](images/16-rotary-encoder-installation.png)
 
 When removing a rotary encoder, pull straight up.
 
