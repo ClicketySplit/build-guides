@@ -23,19 +23,19 @@ Repeat until all 4 or 5 pins have been inserted—depending on if you are using 
 Once you have finished inserting the pins into the sockets, pull the pairing out, in order to prepare the through-holes for the pins.
 
 ### Soldering the Pins
-Place a piece of Kapton tape over top of the Pins area of the PCB.  The top of the PCB itself because the pins are soldered from the bottom.
+Place a piece of Kapton tape over top of the Pins area of the PCB—the top of the PCB itself because the pins are soldered from the bottom.
 
 With a hobby knife, create pilot holes so that the pins will pass through without buckling the tape.  The Kapton tape helps prevent solder from seeping through to the socket during installation.
 
 ![Displays: Pilot Holes](images/11-displays-pilot-holes.png)
 
-With the pilot holes prepared, place the pins/socket pair—pins first—into the PCB.
+With the pilot holes prepared, place the pins/socket pair—**gold pins first**—into the PCB.
 
-On the bottom of the PCB, clip off the pin extrusions, with a pair of flush cutters, to keep soldering clean.
+On the bottom of the PCB, clip off the **gold pin** extrusions, with a pair of flush cutters, to keep soldering clean.
 
 ![Displays: Clip Pin Extrusions](images/11-displays-clip-extrusions.png)
 
-On the top side of the PCB, place a piece of Kapton tape overtop of the socket and pins.  This will help keep the socket and pins in position and perpendicular to the PCB while soldering.
+On the top side of the PCB, place a piece of Kapton tape overtop of the socket.  This will help keep the socket and pins in position and perpendicular to the PCB while soldering.
 
 ![Displays: Tape in place](images/11-displays-tape-in-place.png)
 
@@ -43,7 +43,7 @@ Solder the pin locations.
 
 ![Displays: Solder Pins](images/11-displays-solder-pins.png)
 
-With the pins soldered in place, remove the Kapton tap, and pull off the socket.  It may require some pressure; try pinching off the socket.  With the socket off, remove the protective layer of Kapton tape.
+With the pins soldered in place, remove the Kapton tape, and pull off the socket.  It may require some pressure; try pinching off the socket.  With the socket off, remove the protective layer of Kapton tape.
 
 ![Displays: Pull off socket](images/11-displays-pull-off-socket.png)
 
@@ -73,19 +73,22 @@ The fit should be snug—the socket should not just slip through.
 > Take note of the socket/half pairing and orientation that the socket has been fit to the port itself.
 
 ## SIP Sockets
-As alluded to in the Pins section, installation of the sockets are different than most implementations.  The sockets are soldered to the Displays.
+As alluded to in the Pins section, installation of the sockets are different than most implementations.  **The sockets are soldered to the Displays.**
 
 ### Prepare the Sockets
 Similar to soldering the display's pins to the PCB, we will clip off the header extrusions to ensure a clean solder joint.
 
-To prepare the socket legs, insert the socket legs from the top of the display's PCB, and clip the extrusions as close as possible from the bottom.
+To prepare the socket legs, insert the socket legs from the top of the display's PCB, and clip the extrusions as close as possible from under the display's PCB.
 
 Clipping from the bottom will ensure that no damage is made to the top of the PCB, or what's worse, the display glass itself.
+
+> **NOTE** \
+> The following picture illustrates what the socket looks like after the clipping activity.
 
 ![Displays: Clip SIP Extrusions](images/11-displays-clip-sip-extrusions.png)
 
 > **FINISHING TIP** \
-> Use a small file, or emery board to ensure each leg is the same length.  File across all legs at the same time.
+> Use a small file, or emery board to ensure each leg is the same length.  File across all legs at the same time—**do not file with the display attached to the socket.**
 
 ![Displays: File SIP Extrusions](images/11-displays-file-extrusions.png)
 
