@@ -30,6 +30,9 @@ ZMK's documentation provides two ways to build firmware.
 If you would like to build your firmware in the cloud, follow the instructions: 
 [Installing ZMK](https://zmk.dev/docs/user-setup).
 
+> **NOTE** \
+> Because the firmware for Leeloo v2.1 and Leeloo-Micro v1.1 are based on the [Experimental: Automatic power domain handling for displays/RGB #1775](https://github.com/zmkfirmware/zmk/pull/1775) branch; GitHub Actions may not be used until the feature becomes part of the main ZMK branch.  Consider using the following Toolchain Setup method.
+
 ### Toolchain Setup
 If you would like to build your firmware on your local machine, follow the instructions: [Development > Toolchain Setup](https://zmk.dev/docs/development/setup).
 
