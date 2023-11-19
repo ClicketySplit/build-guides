@@ -24,11 +24,11 @@ This is because the receptacles are installed from ***the top of the PCB*** and 
 
 ![Receptacles: Install from Top](images/5-receptacles-top.png)
 
-With this knowledge, begin inserting the receptacles from the top of the board and seat them so they are flush with the PCB.  Because of the tolerance that the through-holes were designed, you may need to push in the receptacles with a bit of force.
+With this knowledge, begin inserting the receptacles perpendicularly and as flush as possible with the PCB.  Because of the tight tolerance of the through-holes, you may need to push in the receptacles with a bit of force.
 
-It will feel like a press fit insert.  Enough force that you need to lean into it, but not too much that you will break, squash, or crush the component—Hulk Smash!
+Some inserts may feel like a press-fit insert.  Enough force that you need to lean into it, but not too much that you will break, squash, or crush the component—Hulk Smash!
 
-Mostly, the receptacles should slide in nicely.
+Mostly, the receptacles should slide in snugly.
 
 ![Receptacles: Tape in place.](images/5-receptacles-tape.png)
 

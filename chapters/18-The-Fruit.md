@@ -4,7 +4,7 @@ You are almost done.  Just a few more steps and your Leeloo or Leeloo-Micro will
 # Bottom Plate
 In all likelihood, when you received your kit, the case was already pre-assembled with the brass stand-offs.
 
-If you decided to take the case apart, you may have noticed two lengths for the M2 screws—5mm, and 4mm.  The 5mm screws mount the stand-offs to the base, whereas the 4mm screws attache the case cover to the base, from the top of the case itself.
+If you decided to take the case apart, you may have noticed two lengths for the M2 screws—5mm, and 4mm.  The 5mm screws mount the stand-offs to the base, whereas the 4mm screws attach the case cover to the base, from the top of the case itself.
 
 To complete the bottom plates, consider:
 * Placing a bumpon on each each corner of each plate—5 per side.
@@ -37,7 +37,7 @@ If you have any further questions, please [contact me](https://clicketysplit.ca/
 
 :)
 
-Clickety Split
+Clickety Split \
 For the love of split keyboards.
 
 ## Chapters
