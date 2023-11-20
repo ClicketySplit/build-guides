@@ -1,7 +1,7 @@
 # Switches and Rotary Encoders
 Leeloo v2.x and Leeloo-Micro v1.x have 2 switch positions that are hot swappable with rotary encoders.
 
-This may be helpful in situations when wish to add rotary encoders on the go.
+This may be helpful in situations when you wish to add rotary encoders on the go.
 
 ## Switches
 Installing switches should be relatively intuitive.  Align the switch leads with the hot swap receptacles and press down evenly.  You may wish to assist the switch into its location by using a small flathead screwdriver to gingerly press the tabs in which retain the switch in position.
