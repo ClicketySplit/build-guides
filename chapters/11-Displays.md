@@ -14,7 +14,7 @@ Installation of the pins are different than most implementations.  The pins are 
 ### Place the Pins into the Sockets
 Place the sockets into corresponding through-holes (nice!view, or OLED through-holes on the PCB) that are designated for the pins.  The socket should fit snugly.  Essentially, you are using the PCB as a foundation to insert the pins.
 
-With a pliers, grasp a pin—about half of the length—and place it into the socket.  Insert the pin until it stops.  You may need to use firm pressure to pass the pin through to the base of the socket.
+With pliers, grasp a pin—about half of the length—and place it into the socket.  Insert the pin until it stops.  You may need to use firm pressure to pass the pin through to the base of the socket.
 
 Repeat until all 4 or 5 pins have been inserted—depending on if you are using OLED, or nice!view displays.  Prepare both the left and right pins/socket pairing.
 
