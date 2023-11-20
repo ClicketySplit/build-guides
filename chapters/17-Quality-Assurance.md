@@ -33,7 +33,7 @@ Sometimes a switch doesn't activate; no worries.  Consider the following:
 If you're using nice!view or OLED Displays, confirm that the configuration line item has been activated.  If not, recompile with the configuration change, flash the MCUs, and you should immediately see the displays light up.
 
 ### ZMK Implementations
-Open the leeloo.config, or Leeloo_micro.config file and ensure the following line:
+Open the leeloo.config, or leeloo_micro.config file and ensure the following line:
 ```
 # Uncomment the following line to enable the OLED Display or nice!view Display
 CONFIG_ZMK_DISPLAY=y
