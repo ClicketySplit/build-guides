@@ -56,8 +56,8 @@ This will ensure proper power management and ensure long standby times while Lee
 QMK's documentation provides instructions for Windows, Mac OSX, Linux, and FreeBSD.
 [QMK Firmware: Tutorial > Setup](https://docs.qmk.fm/#/newbs_getting_started)
 
-### Leeloo v2.1 Firmware (Develop)
-[Leeloo v2.1, or revision 3](https://github.com/ClicketySplit/qmk_firmware/tree/develop/keyboards/clickety_split/leeloo), is currently merged into the Develop branch.  The changes should be merged into Main in the near future.
+### Leeloo v2.1 Firmware
+[Leeloo v2.1, or revision 3](https://github.com/qmk/qmk_firmware/tree/master/keyboards/clickety_split/leeloo).
 
 ## Chapters
 Next: [Chapter 4: Mise en place](4-Mise-en-place.md) \
