@@ -1,3 +1,6 @@
+> **NOTE** \
+> This is the legacy build guide for Leeloo v1.0 and v1.13.  For the most recent build guide, please visit the following link: [Leeloo v2.1, and Leeloo v1.1](/README.md).
+
 # Leeloo v1.0/v1.13 Build Guide
 
 ### Preamble
