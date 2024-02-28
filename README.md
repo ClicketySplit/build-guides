@@ -15,6 +15,8 @@ Leeloo v2.1 and Leeloo-Micro v1.1 have been revised to be more consistent with e
 >       Added two components: MOSFET and Resistor, along with a Solderable Bypass Jumper, which can be used if RGB LEDs are not installed.
 >
 >       **NOTE** \
+>       As of Feb 27, 2024, consolidation of the Clickety Split series of keyboards [Leeloo v2.1, Leeloo-Micro v1.1, and Pepito v1.13] have been migrated to ZMK v3.5.  Reduction in connectivity issues, and better battery management has been realized with the update.
+>    
 >       As of Nov 6, 2023, a firmware programming adjustment is required to ensure power management is executing properly.  There have been scenarios where power has been leaking slowly, causing faster consumption of the battery capacity than expected.
 >
 >       As of Oct 21, 2023, nice!view Displays are supported; huge thanks to Pete Johanson for all his work and effort to update the drivers to support memory in pixel displays.
