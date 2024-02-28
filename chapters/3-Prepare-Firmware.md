@@ -46,8 +46,8 @@ Configurations without RGB LEDs can leverage the main branch:
 ### Power Domains
 Leeloo v2.1 and Leeloo-Micro v1.1 configurations with RGB LEDs should consider using the following branches, depending on your version of Leeloo:
 
-* [Leeloo v2.1 Power Domains | leeloo_rev3](https://github.com/ClicketySplit/zmk/tree/leeloo_v2.1_power_domain/app/boards/shields/leeloo), or
-* [Leeloo-Micro v1.1 Power Domains | leeloo_micro_rev2](https://github.com/ClicketySplit/zmk/tree/leeloo_micro_v1.1_power_domain/app/boards/shields/leeloo_micro) branch.
+* [Leeloo v2.1 Power Domains | leeloo_rev3](https://github.com/ClicketySplit/zmk/tree/clickety_split_series_zmk_v3.5_power_domains/app/boards/shields/clickety_split_leeloo), or
+* [Leeloo-Micro v1.1 Power Domains | leeloo_micro_rev2](https://github.com/ClicketySplit/zmk/tree/clickety_split_series_zmk_v3.5_power_domains/app/boards/shields/clickety_split_leeloo_micro) branch.
 
 This will ensure proper power management and ensure long standby times while Leeloo is in sleep mode—power is completely cut to the RGB LEDs.
 
