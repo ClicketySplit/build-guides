@@ -1,3 +1,5 @@
+# Quality Assurance
+As you progress through testing, you may run into situations where functionality does not happen as anticipated.  This chapter will cover some typical problems and potential solutions.
 ## Test Each Switch
 Having your firmware flashed to your MCUs, before this step, helps with QA tremendously—predictable use cases.  The simplest way to test your keyboard is to open a text editor and activate each switch.  Hopefully, based on your keymap, each switch that you've programmed will show up on screen—either by character, or by action.
 
@@ -31,7 +33,7 @@ Sometimes a switch doesn't activate; no worries.  Consider the following:
 If you're using nice!view or OLED Displays, confirm that the configuration line item has been activated.  If not, recompile with the configuration change, flash the MCUs, and you should immediately see the displays light up.
 
 ### ZMK Implementations
-Open the leeloo.config, or Leeloo_micro.config file and ensure the following line:
+Open the leeloo.config, or leeloo_micro.config file and ensure the following line:
 ```
 # Uncomment the following line to enable the OLED Display or nice!view Display
 CONFIG_ZMK_DISPLAY=y
@@ -74,3 +76,9 @@ QMK implementations have OLED Displays on by default, in the info.json file.
 ```
 
 If they do not, have a look at the sockets and pins; ensure good connections; reflow if necessary.
+
+## Chapters
+Next: [Chapter 18: The Fruit](18-The-Fruit.md) \
+Previous: [Chapter 16: Switches and Encoders](16-Switches-Encoders.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)

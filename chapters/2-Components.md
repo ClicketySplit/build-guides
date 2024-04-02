@@ -104,4 +104,5 @@ The following additional components are required; however, they are not included
 ## Chapters
 Next: [Chapter 3: Prepare Firmware](3-Prepare-Firmware.md) \
 Previous: [Chapter 1: Preamble](1-Preamble.md) \
+Chapters: [Table of Contents](README.md) \
 Home: [Index](/README.md)

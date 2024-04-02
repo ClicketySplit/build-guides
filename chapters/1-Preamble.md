@@ -1,3 +1,4 @@
+# Preamble
 The Leeloo series was inspired by many popular split keyboards like the Lily58, Corne, and Sweep; however, Leeloo's design was based on a study of many individuals from application developers, technical writers, business analysts, to friends, and family.  To learn more about the origins of Leeloo, please read the blog post [Leeloo | The Series’ Genesis](https://clicketysplit.ca/blogs/news/leeloo-the-series-genesis).
 
 Leeloo is a 4x6x5m split keyboard (MX version will be in production soon), and Leeloo-Micro is a 3x5x5m split keyboard designed and built from the ground up.
@@ -7,6 +8,11 @@ The name was inspired by the movie The Fifth Element.  Leeloo, the character, be
 
 ## About This Guide
 This guide has been written and organized based on my own experience.  I’ve been fortunate to have built boards like the Kyria, Sofle, Lily58, Corne, and Sweep.  The Leeloo series is no different.  There’s a natural progression you’ll realize if you’ve built similar keyboards, or have flipped through the various build guides of the aforementioned keyboards.
+
+> INFORMATION \
+> You may notice that the photos are not from one particular build; they are from a series of 7 builds over the past few weeks.  You may also notice that the photos do not look like they are in order as presented in chapter form.  I tried to build each project in different order; and, the order that is presented will be my preferred order moving forward.
+>
+> Consider skimming through the guide, and sculpting your own process based on your preferences.
 
 There are certain steps which help the build experience flow a little better, but as my Mom used to say, ***“there are hundreds of ways to peel an orange, what’s important is that you get to the fruit…enjoy it!”***
 
@@ -30,7 +36,7 @@ Before you begin, there are a variety of tools, materials, and safety equipment 
 
 ### Tools and Materials
 * Soldering Iron, 280℃ – 325℃
-* 60/40 Solder, 0.3mm Rosin Core
+* Lead Free Solder, 0.3mm Rosin Core
 * Soldering Tips (fine, small, and medium) Conical, or Chissel
 * Brass Wire Sponge or Wet Sponge for solder tip cleaning.
 * Tweezers: non-conductive or ceramic tipped.
@@ -42,6 +48,7 @@ Before you begin, there are a variety of tools, materials, and safety equipment 
 * Cotton Swabs
 * Small Pliers
 * Small Clippers
+* Small file or emery board
 * Multimeter
 
 Optional items:

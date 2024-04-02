@@ -1,3 +1,4 @@
+# Batteries
 Before installing the batteries, consider obtaining a reading of the batteries themselves.  To verify the reading that was made as part of Clickety Split's QA process when packaging your Leeloo or Leeloo-Micro Kit.
 
 ## Testing
@@ -12,16 +13,20 @@ In preparation of soldering the Batteries, you may wish to collect the following
 * Hobby knife with a sharp edge.
 * Scissors
 
-> ***Planning the Installation*** \
+> **PLANNING THE INSTALLATION** \
 > Channel both leads so that they can be as close as possible together and in a way that enables you to tuck the battery into position without a lot of stress on the wires themselves.
 
-> ***NOTE***: ensure the power switches are in the Off Position—toggled to the right.
+> **NOTE** \
+> Ensure that the power switches are in the Off Position—toggled to the right.
+
+![Batteries: Prepare Ground Lead](images/14-batteries-prepare-ground.png)
 
 Place a piece of Kapton tape onto the Black (ground) wire of the battery—as close as possible to the exposed wire to be soldered.
 
 Afix the Black wire in place, with the exposed wire over top of the Negative through-hole pad.  Use your fingernail to bend/flatten the exposed wire as close as possible to the through-hole pad itself.
 
-> ***NOTE***: The Red wire should still have its protective tape on it.
+> **NOTE** \
+> The Red wire should still have its protective tape on it.
 
 Solder the lead to the pad.
 
@@ -29,6 +34,8 @@ Place a piece of Kapton tape over top of the soldered location to protect it fro
 
 ## Prepare Positive Lead
 Place a piece of Kapton tape onto the Red (live) wire of the battery—as close as possible to the exposed wire to be soldered.
+
+![Batteries: Prepare Positive Lead](images/14-batteries-prepare-positive.png)
 
 Afix the Red wire in place, with the exposed wire over top of the Positive through-hole pad.  Use your fingernail to bend/flatten the exposed wire as close as possible to the through-hole pad itself.
 
@@ -41,4 +48,12 @@ To do so, carefully peel off the Kapton tape that was used to afix each lead.
 
 Again, channel both leads so that they can be taped as close as possible together and in a way that enables you to tuck the battery into position without a lot of stress on the wires themselves.
 
+![Batteries: Complete](images/14-batteries-complete.png)
+
 Ensure both leads are properly insulated from other metal objects.  And, for extra safety, you can tape the opposite side of the PCB where the battery leads have been soldered.
+
+## Chapters
+Next: [Chapter 15: MCU Installation](15-MCU-Installation.md) \
+Previous: [Chapter 13: On | Off Switches](13-On-Off-Switches.md) \
+Chapters: [Table of Contents](README.md) \
+Home: [Index](/README.md)
