@@ -51,6 +51,27 @@ Leeloo v2.1 and Leeloo-Micro v1.1 configurations with RGB LEDs should consider u
 
 This will ensure proper power management and ensure long standby times while Leeloo is in sleep mode—power is completely cut to the RGB LEDs.
 
+#### Using GitHub Actions with a ZMK fork
+If you use either of the above branches and want to build your firmware with GitHub Actions, you will need to set up your zmk-config repo manually as the ZMK Installation steps rely on a shell script that's incompatible. Here are the steps to manually set up a repo with custom keymap files and a GitHub Actions workflow that will build your firmware files:
+1. Create a new GitHub repo
+2. Copy this zmk-config folder into your repo
+3. Update the `.conf` and `.keymap` file as desired
+4. Add a file `.github/workflows/build.yaml` with the contents:
+```
+on:
+  push:
+    paths:
+      - "config/**"
+  pull_request:
+    paths:
+      - "config/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    uses: ClicketySplit/zmk/.github/workflows/build-user-config.yml@clickety_split_series_zmk_v3.5_power_domains
+```
+5. Then, you can trigger the workflow and [download the `.uf2` files](https://zmk.dev/docs/user-setup#download-the-archive). Alternatively, the workflow should run every time you update a file in the `/config` folder.
 
 ## QMK
 QMK's documentation provides instructions for Windows, Mac OSX, Linux, and FreeBSD.
